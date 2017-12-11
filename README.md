@@ -1,0 +1,1 @@
+# abadiez-class-diagram
